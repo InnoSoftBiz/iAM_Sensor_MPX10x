@@ -1,0 +1,20 @@
+{
+  "name": "GUI MPX10x",
+  "description": "M5stack Arduino",
+  "keywords": "ESP32, Arduino",
+  "author": "GullWings",
+  "repository": "iAM_Sensor_MPX10x",
+  "firmware_category": [
+    {
+      "Stack-EN": {
+        "path": "firmware",
+        "device": [
+          "M5Stack Core"
+        ],
+        "default_baud": 921600
+      }
+    }
+  ],
+  "version": "1.0.0",
+  "framework": "Arduino"
+}
